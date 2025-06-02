@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Jonathan (aka loco-coder)
 
-<!--
-**loco-coder/loco-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m an engineer-in-training blending sustainability, automation, and design.  
+🎨 I love building visuals with Blender, TouchDesigner, and Python.  
+💻 Currently job-hunting and growing my creative coding portfolio.
 
-Here are some ideas to get you started:
+## 🛠 Tools & Tech
+- SolidWorks, FreeCAD, Blender
+- Python, R, TouchDesigner
+- Git, GitHub, Linux
+- LEED, Six Sigma, Sustainable Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - 🔭 I’m currently working on the automation of my daily task checklist
+- 🌱 I’m currently learning LEED Green Associate, CSWA, REVIT, AUTOCAD, MASTERCAM
+- 👯 I’m looking to collaborate on Graphics, physics engines!
+- 🤔 I’m looking for help with my skills
+
+## 📈 GitHub Stats
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loco-coder&show_icons=true&theme=radical)
+
+## 🔗 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/loco-coder)
