@@ -10,7 +10,7 @@
 - Git, GitHub, Linux
 - LEED, Six Sigma, Sustainable Design
 
-- - 🔭 I’m currently working on the automation of my daily task checklist
+- 🔭 I’m currently working on the automation of my daily task checklist
 - 🌱 I’m currently learning LEED Green Associate, CSWA, REVIT, AUTOCAD, MASTERCAM
 - 👯 I’m looking to collaborate on Graphics, physics engines!
 - 🤔 I’m looking for help with my skills
